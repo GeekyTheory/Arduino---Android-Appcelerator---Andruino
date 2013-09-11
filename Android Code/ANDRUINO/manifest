@@ -1,0 +1,8 @@
+#appname:ANDRUINO
+#publisher:Mario Pérez
+#url:http://geekytheory.com
+#image:appicon.png
+#appid:com.andruino
+#desc:Aplicación para usar Arduino con un Ethernet Shield y WI-FI
+#type:mobile
+#guid:c06b5d20-c5b1-4a7d-821e-f3c9215defc9
